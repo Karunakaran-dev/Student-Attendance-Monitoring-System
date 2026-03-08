@@ -1,2 +1,21 @@
-# Student-Attendance-Monitoring-System
-A Student Attendance Monitoring System developed using Java and Android to record and manage student attendance efficiently using QR Code.
+# AttendanceManagementSystemUsingQRCode
+
+Attendance Management System using QR Code is a couple of Android applications to ease the
+attendance management process for the professor as well as the student.
+
+The Presentation with the Screens are available at :
+https://github.com/ArunGopinathan/AttendanceManagementSystemUsingQRCode/blob/master/Attendance%20Management%20System.pptx?raw=true
+
+Student Application:
+-----------------------
+The Student application can generate a QR code which contains the information necessary for marking the 
+attendance for the student. 
+
+Professor Application:
+-----------------------
+The Professor App can read the QR code and mark the attendance for the student. 
+It also shows analytics about attendance trends.
+
+Technologies Used: 
+Android, ksoap2 (for using Web Services in Android), simple framework (for XML Serialization), 
+SOAP Web Service (Backend Service) and My SQL Database.
